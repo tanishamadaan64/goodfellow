@@ -1,0 +1,39 @@
+/* for navbar logo*/
+#navbarlogo {
+    display: flex;
+align-items:center;
+justify-content: center;
+}
+
+#navlogo{
+   display: block;
+ 
+}
+div.navbar-brand{
+    display:block;
+    align-items: center;
+}
+
+div.card{
+    height: 100%;
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+}
+
+#button1{
+    border-radius: 50px;
+    border:none;
+    /* width:170px; */
+    /* height:70px; */
+    font-size: 25px;
+}
+
+*{
+    font-family: "Source Sans Pro"
+    ;
+}
+
+div.text-success{
+opacity: 50%;}
